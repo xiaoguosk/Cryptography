@@ -10,7 +10,8 @@ using namespace std;
 
 int main()
 {
-	/* 生成公共参数	*/
+	/* 生成公共参数 s*/
+	cout <<"Hello World"<<endl;
 	cout << "密钥生成" << endl;
 	mpz_t p,g;
 	gmp_randstate_t grt;
